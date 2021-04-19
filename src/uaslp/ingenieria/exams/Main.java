@@ -1,7 +1,5 @@
 package uaslp.ingenieria.exams;
 
-import uaslp.ingenieria.exams.instruments.Instrumento;
-
 import java.io.File;
 
 public class Main {
